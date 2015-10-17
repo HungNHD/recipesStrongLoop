@@ -1,0 +1,11 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "RecipesMongoDB": {
+    "url": "mongodb://admin:hoanghon1233@ds039484.mongolab.com:39484/recipesappdb",
+    "name": "RecipesMongoDB",
+    "connector": "mongodb"
+  }
+}
